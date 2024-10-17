@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>ZY.Lime</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Zohar Yzgiaev</Authors>
     <Description>A .NET library for query string parsing and stringifying.</Description>
     <PackageTags>query-string;url;Lime</PackageTags>
