@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lime</id>
+    <version>1.0.0</version>
+    <authors>Zohar Yzgiaev</authors>
+    <description>A .NET library for query string parsing and stringifying.</description>
+    <tags>query-string url Lime</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/zwhryzgyyb/code/Rider/Lime/bin/Release/net6.0/Lime.dll" target="lib/net6.0/Lime.dll" />
+  </files>
+</package>

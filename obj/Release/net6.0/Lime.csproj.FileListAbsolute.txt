@@ -1,0 +1,11 @@
+/Users/zwhryzgyyb/code/Rider/Lime/bin/Release/net6.0/Lime.deps.json
+/Users/zwhryzgyyb/code/Rider/Lime/bin/Release/net6.0/Lime.dll
+/Users/zwhryzgyyb/code/Rider/Lime/bin/Release/net6.0/Lime.pdb
+/Users/zwhryzgyyb/code/Rider/Lime/obj/Release/net6.0/Lime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zwhryzgyyb/code/Rider/Lime/obj/Release/net6.0/Lime.AssemblyInfoInputs.cache
+/Users/zwhryzgyyb/code/Rider/Lime/obj/Release/net6.0/Lime.AssemblyInfo.cs
+/Users/zwhryzgyyb/code/Rider/Lime/obj/Release/net6.0/Lime.csproj.CoreCompileInputs.cache
+/Users/zwhryzgyyb/code/Rider/Lime/obj/Release/net6.0/Lime.dll
+/Users/zwhryzgyyb/code/Rider/Lime/obj/Release/net6.0/refint/Lime.dll
+/Users/zwhryzgyyb/code/Rider/Lime/obj/Release/net6.0/Lime.pdb
+/Users/zwhryzgyyb/code/Rider/Lime/obj/Release/net6.0/ref/Lime.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ojjXAh5QLOUMzuekS7zWtZZ21klI45IecmVcdjQuj+nI3i+KRlEFB/SB5c1WV4SkdIRY3We01jvw5PXaa/BFYw==",
+  "success": true,
+  "projectFilePath": "/Users/zwhryzgyyb/code/Rider/Lime/Lime.csproj",
+  "expectedPackageFiles": [
+    "/Users/zwhryzgyyb/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/zwhryzgyyb/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
