@@ -1,5 +1,4 @@
 # Lime
-
 **Lime** Fresh and Zesty Query String Management for .NET
 
 Just like a squeeze of lime adds zest to a dish, Lime brings a fresh approach to managing query strings in .NET. Featuring modern .NET development practices like nullable reference types, async/await, and fluent interfaces for a smooth developer experience.
@@ -65,5 +64,4 @@ var manager = new QueryStringManager(options);
 
 ## License
 This project is licensed under the MIT License.
-
 
